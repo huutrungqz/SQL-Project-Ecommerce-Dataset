@@ -8,7 +8,8 @@ This project stimulates a real-world scenario where I acted as a DA for a Ecomme
 
 
 ## III. Dataset
-
+- Source: Google Analytics Sample Dataset available on BigQuery: in the Explorer panel, search for "ga_session" and select ga_sessions_20170801 table
+- Description: This is 
 ## IV. Data Analysis Process
 
 ## V. Conclusions
